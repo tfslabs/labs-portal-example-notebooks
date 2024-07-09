@@ -1,0 +1,3 @@
+[submodule "jupyter-cpp-kernel-doc"]
+	path = jupyter-cpp-kernel-doc
+	url = https://github.com/shiroinekotfs/jupyter-cpp-kernel-doc.git
